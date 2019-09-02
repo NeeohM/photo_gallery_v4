@@ -1,0 +1,22 @@
+//body{background: red;}
+a{
+    padding: 20px;
+}
+input{
+    border: 2px solid rgb(243, 243, 243);
+    padding-left:10px;
+}
+::placeholder{
+    color: lightgrey;
+    }
+.dropdown{
+    padding:5px;
+}
+li{
+    list-style: none;
+    padding: 5px;
+    background: white;
+}
+.fancybox-button--arrow_left {
+ width: 300px;
+}

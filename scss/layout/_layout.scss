@@ -1,0 +1,28 @@
+.container{
+    width: 70%;
+    margin: 30px auto;
+    
+}
+input {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    height: 16pt;
+    
+}
+
+
+.gallery{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+
+}
+@media (min-width: 375px){
+
+.container{
+width: 1000px;
+}
+
+}
